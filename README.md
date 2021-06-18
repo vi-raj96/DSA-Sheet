@@ -1,2 +1,1 @@
-# DSA-Sheet
-Solutions
+# DSA-Sheet Solutions
